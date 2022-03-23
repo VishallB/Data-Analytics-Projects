@@ -9,6 +9,7 @@ Subjects covered
 * Dictionaries, Frequency Tables and Functions
 * Jupyter Notebook
 * Data cleaning
+* Object Oriented Programming
 
 ### Project 1: Helicopter Prison Break
 
