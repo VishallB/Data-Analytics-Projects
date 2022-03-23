@@ -2,7 +2,7 @@
 
 # Introduction for the project
 
-The goal of this project was to analyse helicopter prison breaks which occur throught the world in different prisons. The data was used from the [https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes](Wikipedia) article. 
+The goal of this project was to analyse helicopter prison breaks which occur throught the world in different prisons. The data was used from the [Wikipedia](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes) article. 
 
 The main aim of this project was to find out two questions:
 1. In which year did the most helicopter prison break attempt occur?
