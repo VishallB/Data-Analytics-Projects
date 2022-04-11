@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-This repository is for all the projects involving Data Analysis which I have done under Dataquest-Data-Analyst-Path. I will try to document my learnings through this repository and keep updating as I complete the projects. Since, Dataquest believes in project based learning. So, at the end of each topic, there will be a project involved.
+This repository is for all the projects involving Data Analysis which I have done under Dataquest-Data-Analyst-Path. I will try to document my learnings through this repository and keep updating as I complete the projects. Since, Dataquest believes in project based learning.
 
 ## Part 1 - Introduction to Python
 
