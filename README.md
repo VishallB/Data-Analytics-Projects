@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 This repository is for all the projects involving Data Analysis which I have done under Dataquest-Data-Analyst-Path. I will try to document my learnings through this repository and keep updating as I complete the projects.
 
-## Part 1 - Introduction to Python
+# Part 1 - Introduction to Python
 
 Subjects covered
 * Variables, Data Types and Lists
@@ -25,7 +25,7 @@ In this project, a [dataset](https://www.kaggle.com/datasets/hacker-news/hacker-
 * Do Ask HN or Show HN recevie more comments on average?
 * Do posts created at a certain time receive more comments on average?
 
-## Part 2 - Intermediate Python and Pandas
+# Part 2 - Intermediate Python and Pandas
 
 Subjects covered
 * Pandas and NumPy Fundamentals
