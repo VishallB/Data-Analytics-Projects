@@ -31,3 +31,7 @@ Subjects covered
 * Pandas and NumPy Fundamentals
 * Data Visualization Fundamentals
 * Storytelling Data Visualization and Information Design
+
+### Project 1: Exploring eBay Car Sales Data
+
+In this project, a [dataset](https://data.world/data-society/used-cars-data) containing the used car listings from the German eBay website was used to analyze the top 6 brands average price and if there was any link between the average mileage of the top 6 brands and their price. The main aim of this project was to familiarize with the data cleaning techniques and how pandas can be used to do the data cleaning process and learning how to use different dataframe and series method for exploration and correcting the data.
