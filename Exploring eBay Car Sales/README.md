@@ -1,17 +1,30 @@
-# Introduction to the project
+# Used Car Listings Analysis
 
-A [classified](https://en.wikipedia.org/wiki/Classified_advertising) advertisement is a form of advertising, commonly found in newspapers, online or other periodicals, which is sold or distributed free of charge. 
+## Introduction
 
-**eBay Kleinanzeigen** is a classified section of **German** eBay website. 
+Classified advertisement is a form of advertising that is common in newspapers, online or other periodicals. **eBay Kleinanzeigen** is a classified section of **German** eBay website. The aim of this project is to analyze the included used car listings and answer a few questions:
 
-The [dataset](https://data.world/data-society/used-cars-data) consists information of used cars from the website. 
+1. What is the average price of the top 6 brands in the used car listings?
+2. Is there a link between the top 6 brands' car price and the average mileage?
 
-The aim of the project is to analyze the included used car listings and answer few questions: <br>
-**1. What is the average price of the top 6 brands in the used car listings?** <br>
-**2. Is there a link between the top 6 brands' car price and the average mileage?**
+## Data Source
 
-# Outline of analysis
-* We saw the **top 6 brands** with the **highest average price.**
-* Then we found out the **mean mileage of the top 6 brands.**
-* We can say that, even though the car has a **higher mileage, those top 6 brands are very expensive in the used cars.**
-* I believe, this is mainly due to the **brand value** which they posses in the industry and the car market. And also people are very **brand conscious**, willing to buy these cars even when they are **driven more and expensive, too.**
+The [dataset](https://data.world/data-society/used-cars-data) contains information on used cars from the website.
+
+## Technologies Used
+
+The analysis was performed using **Python** and the following libraries:
+
+- **pandas** for data manipulation
+- **numpy** for numerical computation
+- **matplotlib** and **seaborn** for data visualization
+
+## Project Goals
+
+The main goal of this project is to analyze the used car listings data and answer the above-mentioned questions. 
+
+First, we identified the top 6 brands with the highest average price. Then, we found out the mean mileage of the top 6 brands. We found that even though the car has a higher mileage, those top 6 brands are very expensive in the used car market. We believe this is mainly due to their brand value, which they possess in the industry, and people being brand conscious, willing to buy these cars even when they have been driven more and are expensive.
+
+## Conclusion
+
+Through this project, we were able to identify the top 6 brands with the highest average price in the used car market and analyze the correlation between the average mileage and the car prices for these brands. This information can be useful for car dealerships and individuals looking to buy or sell used cars. The code and the results of this project can be found in this repository.
