@@ -1,18 +1,17 @@
-# Introduction to the project
+# Project: Analyzing Hacker News Posts
 
-[Hacker News](https://news.ycombinator.com/) is a site, where user-submitted stories (known as "posts") receive votes and comments, similar to Reddit. The site is extremely popular in technology and startup circles, mainly because the posts that make it to the top of the Hacker News listings can get hundreds of thousands of visitors as a result. 
+## Introduction
+[Hacker News](https://news.ycombinator.com/) is a popular site where users can submit and vote on stories, similar to Reddit. In this project, we'll be analyzing posts with titles that begin with **Ask HN** or **Show HN**. These posts are particularly interesting because they invite discussion and feedback from the community. 
 
-The posts on Hacker News with titles **Ask HN** or **Show HN** means:
-- **Ask HN** posts to ask the Hacker News community a specific question.
-- **Show HN** posts to show the Hacker News community a project, product, or something interesting.
+The main objective of this project is to analyze the posts and determine:
+1. Which type of post (Ask HN or Show HN) receives more comments on average
+2. At what time are posts created that receive the most comments on average
 
-We are interested in the above titles, **Ask HN** or **Show HN**. By using these two types of posts, we will analyze
-1. Do **Ask HN** or **Show HN** recevie more comments on average?
-2. Do posts created at a certain time receive more comments on average?
+## Data Source
+The dataset used for this project can be found on [Kaggle](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts). It contains approximately 300,000 rows of data, with each row representing a single post on Hacker News.
 
-# Outline of analysis
+## Technologies Used
+The project is implemented using Python and Jupyter Notebook. We'll be using the datetime module to work with dates, and several string methods to work with string data.
 
-* Used several string methods to work with string data
-* Used datetime module to work with dates
-
-P.S: Couldn't upload the dataset because of the size. The dataset can be found [here](https://www.kaggle.com/datasets/hacker-news/hacker-news-posts)
+## Conclusion
+By analyzing the Hacker News posts, we were able to determine that on average, **Ask HN** posts receive more comments than **Show HN** posts. We also found that the time of day when posts are created can have a significant impact on the number of comments they receive. Posts created between 3:00 PM and 4:00 PM EST receive the most comments on average. This information can be useful for individuals or companies looking to maximize engagement on their posts.
